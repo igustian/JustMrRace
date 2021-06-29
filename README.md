@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @JustMrRace
-- 👀 I’m interested in DDraceNetwork
+- 👀 I’m interested in games
 - 🌱 I’m currently learning things?
-- 💞️ I’m looking to collaborate on games:D
+- 💞️ I’m looking to collaborate on idk
 - 📫 How to reach me idk
 
 <!---
