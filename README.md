@@ -1,8 +1,4 @@
-- 👋 Hi, I’m @JustMrRace
-- 👀 I’m interested in games
-- 🌱 I’m currently learning things?
-- 💞️ I’m looking to collaborate on idk
-- 📫 How to reach me idk
+
 
 <!---
 JustMrRace/JustMrRace is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
